@@ -8,7 +8,7 @@ let package = Package(
         .library(name: "AlkoveLiveKit", targets: ["AlkoveLiveKit"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/alkove-ai/alkove.git", from: "0.4.3"),
+        .package(url: "https://github.com/alkove-ai/alkove.git", from: "0.5.0"),
         .package(url: "https://github.com/livekit/client-sdk-swift.git", from: "2.19.0"),
     ],
     targets: [

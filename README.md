@@ -3,7 +3,7 @@
 [Alkove](https://github.com/alkove-ai/alkove)'s Focus in LiveKit Swift's microphone path: it keeps the user's voice, the closest one or the voice of a print, and removes the others and the noise, on the device. Built from [`ios/livekit`](https://github.com/alkove-ai/alkove/tree/main/ios/livekit) in Alkove's repository, released with it.
 
 ```swift
-.package(url: "https://github.com/alkove-ai/alkove-livekit-swift.git", from: "0.4.3")
+.package(url: "https://github.com/alkove-ai/alkove-livekit-swift.git", from: "0.5.0")
 ```
 
 ```swift
